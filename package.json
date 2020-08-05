@@ -43,7 +43,7 @@
     "ejs": "^2.6.1",
     "errorhandler": "^1.5.0",
     "express": "^4.16.4",
-    "express-fileupload": "^1.1.1-alpha.2",
+    "express-fileupload": "^1.1.9",
     "express-flash": "0.0.2",
     "express-session": "^1.15.6",
     "express-validator": "^4.3.0",
